@@ -1,3 +1,3 @@
 # DeepLearning
 
-This repo contained the materials for deep learning courses
+This repo contains the materials for deep learning courses
